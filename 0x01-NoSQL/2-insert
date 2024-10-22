@@ -1,0 +1,2 @@
+// insert data to collectiom
+db.school.insert({"name": "Holberton school"})
