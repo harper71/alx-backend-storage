@@ -1,0 +1,2 @@
+//matches a specific character
+db.school.find({"name": {$regex: "\\bHolberton\\w*\\b"}})
